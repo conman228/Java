@@ -1,0 +1,8 @@
+230120202006, 1111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 5, 0.1, 40.46, 01/23/20, 08:06:37 PM EST
+230120202006, 234,  "The Bourne Identity - Robert Ludlum", 12.95, 13, 0.15, 143.1, 01/23/20, 08:06:37 PM EST
+230120202015, 55555,  "Everyday Italian - Giada de Laurentiis", 18.99, 3, 0.0, 56.97, 01/23/20, 08:15:24 PM EST
+230120202015, 89124,  "Into the Water - Paula Hawkins", 14.99, 11, 0.15, 140.16, 01/23/20, 08:15:24 PM EST
+230120202015, 45376,  "The Apprentice - Tess Gerritsen", 9.99, 2, 0.0, 19.98, 01/23/20, 08:15:24 PM EST
+230120202015, 1111,  "Top Secret Twenty One - Janet Evanovich", 8.99, 6, 0.1, 48.55, 01/23/20, 08:15:44 PM EST
+230120202015, 19652,  "Bird Box - Josh Malerman", 12.99, 9, 0.1, 105.22, 01/23/20, 08:15:44 PM EST
+230120202016, 67534,  "The Black Book - James Patterson", 15.99, 6, 0.1, 86.35, 01/23/20, 08:16:11 PM EST
